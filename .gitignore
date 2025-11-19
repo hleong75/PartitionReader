@@ -31,3 +31,7 @@ venv.bak/
 *.swp
 *.swo
 *~
+demo_output/
+output/
+*.ly
+*.lytex
